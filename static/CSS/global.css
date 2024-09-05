@@ -1,0 +1,18 @@
+/* Normalização */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Váriaveis de Cor do Site*/
+:root {
+    --color01: rgb(255, 255, 255);
+    --color02: rgb(0, 0, 0);
+    --color03: #FFCD11;
+    --color04: #F0F0F0;
+    --color05: #ED7203;
+    --color06: #2C2E41;
+    --colorRed:#C61606;
+    --colorGreen:#04A61C;
+  }
