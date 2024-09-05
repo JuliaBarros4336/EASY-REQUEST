@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* Normalização */
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+/* Define o tamanho da fonte base */
+html {
+    font-size: 10px; /* Agora 1rem = 10px */
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
 }
 
 /* Váriaveis de Cor do Site*/
@@ -15,4 +25,4 @@
     --color06: #2C2E41;
     --colorRed:#C61606;
     --colorGreen:#04A61C;
-  }
+}
